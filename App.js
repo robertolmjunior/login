@@ -14,7 +14,7 @@ export default function App () {
           <View style = {styles.ViewCentro}>
           <Image resizeMode='center' style = {styles.Image} 
             source={{
-              uri: 'https://a.espncdn.com/photo/2022/1119/r1093332_1079x607_16-9.jpg' 
+              uri: 'https://r.testifier.nl/Acbs8526SDKI/resizing_type:fit/width:1080/height:720/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/gpblog.com/images/2025-03/0487f49a3fb49f6c1c079016b370f7f1beaad682.jpg@webp' 
             }} />
 
             <TextInput style={styles.entradasDados} placeholder='Digite seu email'/>
